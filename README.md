@@ -1,1 +1,3 @@
-# ColorizeDepthNet
+# Colorization of Depth Map via Disentanglement (ECCV 2020 accepted)
+
+Coming soon ...
