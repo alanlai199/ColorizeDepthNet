@@ -11,7 +11,7 @@ This is the PyTorch implementation for our ECCV'20 paper:
 3. CUDA 9.1
 4. Ubuntu 18.04.2 LTS
 
-## Citaion
+## Citation
 Please cite our paper if you find it useful for your research.  
 ```
 @InProceedings{lai_2020_ECCV,
