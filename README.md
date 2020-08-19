@@ -30,7 +30,7 @@ python train_full.py
 ```
 
 ## Colorized image
-colorized depth maps with abitary reference RGBD pairs in **data/nyu2_ref.csv**
+colorized all depth maps in testing set with abitary reference RGBD pairs in **data/nyu2_ref.csv**
 
 argument **num_of_ref** in **generate.py** needs to be changed 
 ```
