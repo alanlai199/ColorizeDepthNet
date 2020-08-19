@@ -2,6 +2,8 @@
 This is the PyTorch implementation for our ECCV'20 paper:
 
 **Colorization of Depth Map via Disentanglement [PAPER](https://people.cs.nctu.edu.tw/~walon/publications/lai2020eccv.pdf)**
+
+Chung-Sheng Lai, Zunzhi You, [Ching-Chun Huang](http://acm.cs.nctu.edu.tw/Member_Home.aspx?Account=chingchun), [Yi-Hsuan Tsai](https://sites.google.com/site/yihsuantsai/), [Wei-Chen Chiu](https://walonchiu.github.io/)
 <div align=><img height="200" src="https://github.com/alanlai199/ColorizeDepthNet/blob/master/figures/teaser.png"/></div>
 
 ## Environment
